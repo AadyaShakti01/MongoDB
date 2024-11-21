@@ -1,4 +1,4 @@
-# MongoDB
+# Dashboard on MongoDB
 
 # Objective :
 To analyze Netflix's content library, viewing trends, and production strategies using data-driven insights to guide managerial decisions on content acquisition, production, and regional targeting for sustained growth and customer satisfaction.
@@ -7,7 +7,7 @@ To analyze Netflix's content library, viewing trends, and production strategies 
 ![Netflix](https://github.com/user-attachments/assets/938e5a35-de78-4407-afc2-428c4011ead5)
 
 # Queries and Insights
-1. Content by Countries
+1. Content by Countries 
    Query : Which countries contribute the most to Netflix’s content library?
    Managerial Insights:
    Country Partnerships: Countries like India, the U.S., and the U.K. dominate content creation. Strengthen partnerships in these regions for both original and licensed content.
