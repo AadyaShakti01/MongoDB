@@ -7,8 +7,8 @@ To analyze Netflix's content library, viewing trends, and production strategies 
 ![Netflix](https://github.com/user-attachments/assets/938e5a35-de78-4407-afc2-428c4011ead5)
 
 # Queries and Insights
-1. Content by Countries 
-   Query : Which countries contribute the most to Netflix’s content library?
+1. Content by Countries </br>
+   Query : Which countries contribute the most to Netflix’s content library? </br>
    Managerial Insights:
    Country Partnerships: Countries like India, the U.S., and the U.K. dominate content creation. Strengthen partnerships in these regions for both original and licensed content.
    Underserved Regions: Identify and invest in content creation or licensing from underrepresented regions like Eastern Europe or Africa to expand global reach.
