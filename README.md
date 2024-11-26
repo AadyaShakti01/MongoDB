@@ -1,7 +1,19 @@
-# Dashboard on MongoDB
+# Neflix Snapshot 
 
 # Objective :
 To analyze Netflix's content library, viewing trends, and production strategies using data-driven insights to guide managerial decisions on content acquisition, production, and regional targeting for sustained growth and customer satisfaction.
+
+# Description Of Data
+show_id: A unique identifier for each show in the Netflix database. This helps to distinguish different titles even if they have the same name. </br>
+type: Specifies whether the entry is a "Movie" or a "TV Show". This helps in categorizing the content into distinct formats.  </br>
+title:The name of the movie or TV show. This is the main identifier visible to users when browsing Netflix.  </br>
+director:The name of the director(s) associated with the content. It provides insights into the creators and may affect the popularity of the title.  </br>
+country:Indicates the primary country of origin for the movie or show. This helps users identify regional content and assess the platform's global reach.  </br>
+date_added:The date the content was added to Netflix. This helps track when specific shows or movies became available on the platform, offering insights into content trends.  </br>
+release_year: The year the movie or TV show was originally released. It provides context for the age of the content and its relevance in modern times.  </br>
+rating: The maturity rating (e.g., PG, R, TV-MA) that indicates the appropriate audience for the content. This helps users filter content based on age suitability.  </br>
+duration: Specifies the runtime of a movie (e.g., "90 min") or the number of seasons for a TV show (e.g., "2 Seasons"). This is helpful for users planning their watch time.  </br>
+listed_in: The genres or categories the show or movie belongs to (e.g., "Comedies," "Dramas"). It assists users in finding content that matches their preferences.  </br>
 
 # Dashboard : 
 ![Netflix](https://github.com/user-attachments/assets/938e5a35-de78-4407-afc2-428c4011ead5)
